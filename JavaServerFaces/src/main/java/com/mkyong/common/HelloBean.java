@@ -27,4 +27,11 @@ public class HelloBean implements Serializable {
 		System.out.println("Release 2");
 	
 	}
+	
+	public static void print() {
+		System.out.println("new method main");
+		
+		System.out.println("Release 2");
+	
+	}
 }
